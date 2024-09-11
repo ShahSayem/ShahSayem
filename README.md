@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shahsayemahmad@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/WFscz](https://shorturl.at/P55B5)
+- 📄 Know about my experiences [https://shorturl.at/P55B5](https://shorturl.at/P55B5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
