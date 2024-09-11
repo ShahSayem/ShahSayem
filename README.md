@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahsayem&label=Profile%20views&color=0e75b6&style=flat" alt="shahsayem" /> </p>
 
-- 🔭 I’m currently working on **Project Management**
+- 🔭 I’m currently working on **AI / ML**
 
-- 🌱 I’m currently learning **Django, Flutter**
+- 🌱 I’m currently learning **ML, LLM**
 
 - 👨‍💻 All of my important links are here [https://linkr.bio/ShahSayem](https://linkr.bio/ShahSayem)
 
