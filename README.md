@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **AI / ML**
 
-- 🌱 I’m currently learning **ML, LLM**
+- 🌱 I’m currently learning **AI / ML**
 
 - 👨‍💻 All of my important links are here [https://linkr.bio/ShahSayem](https://linkr.bio/ShahSayem)
 
 - 📫 How to reach me **shahsayemahmad@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/shahsayem]([https://shorturl.at/P55B5](https://drive.google.com/file/d/1g1QDPj0h7l14tHUhCiRgCBc0rRQLv5Yg/view?usp=sharing))
+- 📄 Know about my experiences [https://shorturl.at/shahsayem]([https://shorturl.at/P55B5](https://drive.google.com/file/d/1g1QDPj0h7l14tHUhCiRgCBc0rRQLv5Yg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
